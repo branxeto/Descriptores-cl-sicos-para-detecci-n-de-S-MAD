@@ -1,8 +1,13 @@
-/SMDD
-/ASML
-/FEI
-/FRLL
-/scripts/ASML
-/scripts/FEI
-/scripts/SMDD
-/scripts/shape_predictor_68_face_landmarks.dat
+# Bases de datos e imágenes generadas
+/Bona-fide/
+/scripts/Caras_seleccionadas/
+/scripts/Morphing/face-morphing/OpenCV_Morphing_FEI/
+/colorferet.tar
+
+# Modelos y pesos pesados
+/scripts/Morphing/shape_predictor_68_face_landmarks.dat
+
+# Entorno de Python y Jupyter (¡Obligatorio en ML!)
+__pycache__/
+.ipynb_checkpoints/
+*.pkl

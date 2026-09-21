@@ -12,9 +12,15 @@ Se necesita tener instalado:
 Las bases de datos que se utilizaron para esta investigación fueron:
 
 *FRLL*
+https://zenodo.org/records/4415159
 *ASML*
+https://omen.cs.uni-magdeburg.de/disclaimer/index.php
 *FEI*
+https://fei.edu.br/~cet/facedatabase.html
 *SMDD*
+https://github.com/naserdamer/SMDD-Synthetic-Face-Morphing-Attack-Detection-Development-dataset
+*Defacto-face*
+https://www.kaggle.com/datasets/defactodataset/defactoface?resource=download-directory&select=reference
 
 Cada una de estas tiene sus propias cualidades, por lo que se debieron de normalizar para cumplieran con los mismos estandares, los cuales son:
 
